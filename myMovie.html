@@ -19,15 +19,33 @@
                 <td>Jamie Chung</td>
                 <td>This actor would be good because she has experience in voice acting.</td>
                 <td>41</td>
+            </tr>
+            <tr>
                 <td>Juju Chan</td>
                 <td>She would be good because she is a singer and martial artist. And also does acting so she can be a good fit.</td> 
                 <td>35</td>
+            </tr>
+            <tr>
                 <td>Celia Jae</td> <td>She would also be a good fit because she is a martial artist and singer. She also know for her roles as being an fighter.</td>
                 <td>39</td>
+            </tr>
+            <tr>
                 <td>Arden Cho</td> 
                 <td>She is an actress and singer. She is known for her role played in Teen Wolf.</td>
                 <td>39 </td>
             </tr>
         </table>
+        <hr>
+        <h2>Code Display</h2>
+        <p>Replacing the context in the file</p>
+        <pre>const fileSystem = require('fs');
+            const editFile = (fileName, text) => {
+                fileSystem.writeFile(fileName, text, (error) => {
+                    if (error) throw error;
+                    console.log('Replaced the file!');
+                });
+            } 
+        </pre>
+        <a href="https://code.pieces.app/collections/node-js#:~:text=const%20fileSystem%20%3D%20require(%27fs%27)%3B%0Aconst%20editFile%20%3D%20(fileName%2C%20text)%20%3D%3E%20%7B%0A%09fileSystem.writeFile(fileName%2C%20text%2C%20(error)%20%3D%3E%20%7B%0A%09%09if%20(error)%20throw%20error%3B%0A%09%09console.log(%27Replaced%20the%20file!%27)%3B%0A%09%7D)%3B%0A%7D">Link to snippet</a>
     </body>
 </html>
