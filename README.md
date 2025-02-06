@@ -2,4 +2,4 @@
 # WebApps-S25-Assignment-3
 Assignment 3 - Basic HTML
 
-Hosted at []([https://github.com/44-563-WebApps-S25/44563-webapps-s25-assignment3-verhulsta532.git](https://github.com/44-563-WebApps-S25/44563-webapps-s25-assignment3-verhulsta532/blob/main/index.html))
+Hosted at [link to index.html]([https://github.com/44-563-WebApps-S25/44563-webapps-s25-assignment3-verhulsta532.git](https://github.com/44-563-WebApps-S25/44563-webapps-s25-assignment3-verhulsta532/blob/main/index.html))
